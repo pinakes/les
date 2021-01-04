@@ -3,3 +3,4 @@ node_modules
 docs
 __temp*
 examples/lib/p5.js
+game/assets/les_sprites.psd
